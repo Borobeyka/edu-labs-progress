@@ -22,7 +22,7 @@
 ![Progress](https://progress-bar.dev/0/?scale=8&width=730&suffix=)
 
 ### ОБЖ
-![Progress](https://progress-bar.dev/3/?scale=3title=completed&width=730&suffix=)
+![Progress](https://progress-bar.dev/3/?scale=3&width=730&suffix=)
 
 ### Основы антикоррупционной деятельности
 ![Progress](https://progress-bar.dev/4/?scale=5&width=730&suffix=)

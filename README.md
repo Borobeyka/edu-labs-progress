@@ -15,7 +15,7 @@
 ![Progress](https://progress-bar.dev/0/?scale=8&width=530&suffix=)
 
 ### Инструментальный анализ защищенности (флаги)
-![Progress](https://progress-bar.dev/4/?scale=6&width=530&suffix=)
+![Progress](https://progress-bar.dev/5/?scale=6&width=530&suffix=)
 
 ### Компьютерная экспертиза (Горелик С.С.)
 ![Progress](https://progress-bar.dev/3/?scale=8&width=530&suffix=)

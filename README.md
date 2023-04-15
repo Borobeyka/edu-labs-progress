@@ -21,7 +21,7 @@
 ![Progress](https://progress-bar.dev/3/?scale=8&width=530&suffix=)
 
 ### Тестирование на проникновение (Садыков И.В.)
-![Progress](https://progress-bar.dev/0/?scale=8&width=530&suffix=)
+![Progress](https://progress-bar.dev/2/?scale=8&width=530&suffix=)
 
 ### ОБЖ
 ![Progress](https://progress-bar.dev/3/?scale=3&width=530&suffix=)

@@ -12,7 +12,7 @@
 ![Progress](https://progress-bar.dev/8/?scale=8&width=530&suffix=)
 
 ### Введение в машинное обучение (Никонов В.В.)
-![Progress](https://progress-bar.dev/0/?scale=8&width=530&suffix=)
+![Progress](https://progress-bar.dev/0/?scale=5&width=530&suffix=)
 
 ### Инструментальный анализ защищенности (флаги)
 ![Progress](https://progress-bar.dev/5/?scale=6&width=530&suffix=)

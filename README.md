@@ -18,7 +18,7 @@
 ![Progress](https://progress-bar.dev/5/?scale=6&width=530&suffix=)
 
 ### Компьютерная экспертиза (Горелик С.С.)
-![Progress](https://progress-bar.dev/3/?scale=8&width=530&suffix=)
+![Progress](https://progress-bar.dev/3/?scale=7&width=530&suffix=)
 
 ### Тестирование на проникновение (Садыков И.В.)
 ![Progress](https://progress-bar.dev/2/?scale=8&width=530&suffix=)

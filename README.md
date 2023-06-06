@@ -3,7 +3,7 @@
 ---
 
 ### Политики безопасности БД (Котилевец И.Д.)
-![Progress](https://progress-bar.dev/5/?scale=8&width=530&suffix=)
+![Progress](https://progress-bar.dev/8/?scale=8&width=530&suffix=)
 
 ### Администрирование БД (Котилевец И.Д.)
 ![Progress](https://progress-bar.dev/8/?scale=8&width=530&suffix=)
